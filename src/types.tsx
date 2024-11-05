@@ -68,7 +68,7 @@ export let template: Card[] = [
         url: "https://typesafe-rusty.github.io/contribute-to-this-repo/",
       },
     ],
-    socials: [
+    socials:[
       {
         name: "SOCIAL 1",
         url: "https://typesafe-rusty.github.io/contribute-to-this-repo/",
