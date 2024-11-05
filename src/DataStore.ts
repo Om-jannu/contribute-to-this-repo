@@ -366,11 +366,11 @@ export const data: Card[] = [
     ],
     "socials": [
       {
-        "name": "Linkedin",
+        "name": "linkedin",
         "url": "https://www.linkedin.com/in/aarol-d-souza-a25893259/"
       },
       {
-        "name": "Github",
+        "name": "github",
         "url": "https://github.com/AarDG10"
       }
     ]
