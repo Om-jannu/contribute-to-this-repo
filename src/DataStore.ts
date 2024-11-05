@@ -4,6 +4,72 @@ import { SiDevdotto, SiGodotengine, SiMagic, SiShadcnui, SiVercel, SiYoutube } f
 import { FaDev } from "react-icons/fa6";
 export const data: Card[] = [
   {
+    "name": "Yash Khatpe",
+    "description": "I am full stack developers and love to explore new web related technologies",
+    "resources": [
+      {
+        "name": "Next.js Documentation",
+        "url": "https://nextjs.org/"
+      },
+      {
+        "name": "GraphQL Docs",
+        "url": "https://graphql.org/"
+      },
+      {
+        "name": "Redis Docs",
+        "url": "https://redis.io/"
+      }
+    ],
+    "socials": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yash-khatpe"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/YashKhatpe"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/yash_khatpe6"
+      }
+    ]
+  },
+  {
+    name: "Sanjay Yadav",
+    description:
+      "Hi I am Sanjay . Web Developer with keen Interest in Data Analytics.",
+    resources: [
+      {
+        name: "Alteryx : Data Analytics Tool and Learning Resources",
+        url: "https://community.alteryx.com/t5/Learning-Paths/tkb-p/learning-path",
+      },
+      {
+        name: "AlgoMap.io : DSA RoadMap",
+        url: "https://algomap.io/",
+      },
+      {
+        name: "TLE Eliminators : CP-Sheet",
+        url: "https://www.tle-eliminators.com/cp-sheet",
+      },
+    ],
+    socials: [
+      {
+        name: "github",
+        url: "https://github.com/sanjay-yadav-05",
+      },
+      {
+        name: "linkedin",
+        url: "https://www.linkedin.com/in/sanjay-yadav-2813852ab/",
+      },
+      {
+        name: "instagram",
+        url: "https://www.instagram.com/venom_05_8483/",
+      },
+    ],
+  },
+
+  {
     name: "Gaurav",
     description:
       "Hi I am Gaurav . Full Stack Developer with Interest in Competitive Programming and System Design.",
@@ -243,6 +309,7 @@ export const data: Card[] = [
         name: "So You Think You Know Git",
         url: "hhttps://www.youtube.com/watch?v=aolI_Rz0ZqY",
         icon:SiYoutube
+
       },
       {
         name: "Dev Resources",
@@ -277,6 +344,34 @@ export const data: Card[] = [
       {
         name: "instagram",
         url: "https://www.instagram.com/v_i_nay._.20/"
+      }
+    ]
+  },
+  {
+    "name": "Aarol D'Souza",
+    "description": "Avid Competitive Coder, Math Enthusiast and Aspiring Software Developer",
+    "resources": [
+      {
+        "name": "Advent of Code 23",
+        "url": "https://github.com/AarDG10/Advent-of-Code"
+      },
+      {
+        "name": "Codeforces Acc.",
+        "url": "https://codeforces.com/profile/aarol.dsouza"
+      },
+      {
+        "name": "Codechef Acc.",
+        "url": "https://www.codechef.com/users/getes07"
+      }
+    ],
+    "socials": [
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/aarol-d-souza-a25893259/"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/AarDG10"
       }
     ]
   },
