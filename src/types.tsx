@@ -28,18 +28,18 @@ export let template: Card[] = [{
             "url": "https://typesafe-rusty.github.io/contribute-to-this-repo/"
         }
     ],
-    "socials": [
-        {
-            "name": "SOCIAL 1",
-            "url": "https://typesafe-rusty.github.io/contribute-to-this-repo/"
-        },
-        {
-            "name": "SOCIAL 2",
-            "url": "https://typesafe-rusty.github.io/contribute-to-this-repo/"
-        },
-        {
-            "name": "SOCIAL 3",
-            "url": "https://typesafe-rusty.github.io/contribute-to-this-repo/"
-        }
-    ]
+    "socials":[
+      {
+        name: "github",
+        url: "https://typesafe-rusty.github.io/contribute-to-this-repo/",
+      },
+      {
+        name: "linkedin",
+        url: "https://typesafe-rusty.github.io/contribute-to-this-repo/",
+      },
+      {
+        name: "appleMusic",
+        url: "https://typesafe-rusty.github.io/contribute-to-this-repo/",
+      },
+    ],
 }]
