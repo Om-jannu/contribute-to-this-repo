@@ -131,7 +131,7 @@ export default function BlogCard({ data }: { data: C }) {
         </CardHeader>
         <CardContent>
           <h3 className="text-sm font-medium mb-2">
-            Resources I'd love to share:
+            Resources I&apos;d love to share:
           </h3>
           <ScrollArea className="h-24">
             {data.resources.map((resource, index) => {
